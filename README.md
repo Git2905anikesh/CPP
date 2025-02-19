@@ -1,1 +1,1 @@
-Let's begin the journy og C++
+Let's begin the journy of C++
